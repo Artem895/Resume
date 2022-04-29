@@ -120,6 +120,20 @@ table{
     color: #fffb37;
     opacity: .3;
 }
+.container{
+    background: url("cont5.png") center no-repeat;
+    height: 500px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 70px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "DejaVu Sans Condensed",cursive;
+}
+.container h3{
+    font-family: "Comic Sans MS",cursive,sans-serif;
+    font-size: 40px;
+}
 .footer1{
     width: 50%;
     height: 70px;
